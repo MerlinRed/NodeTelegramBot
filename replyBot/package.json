@@ -1,0 +1,18 @@
+{
+  "name": "NodeTelegramBot",
+  "version": "1.0.0",
+  "description": "Telegram bot on Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/MerlinRed/NodeTelegramBot.git",
+  "author": "Merlin <knight_j_k@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.4.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
